@@ -1,4 +1,5 @@
 Aprendizado de Java
+
 ![image](https://github.com/Manuela-Gadelho/Java-Projetos-e-Conceitos/assets/91551542/8eb45b4e-c714-4ad2-b85e-e47f8908f219)
 
 Este repositório contém projetos e exemplos criados durante meu aprendizado de Java. Cada pasta representa um projeto diferente, e cada um pode conter um README específico com mais detalhes.
