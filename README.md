@@ -5,6 +5,7 @@ Aprendizado de Java
 Este repositório contém projetos e exemplos criados durante meu aprendizado de Java. Cada pasta representa um projeto diferente, e cada um pode conter um README específico com mais detalhes.
 
 Estrutura do Repositório
+
 Conceitos - Pastas com anotações feitas durante aulas 
 Projetos com SPring Boot, Swing, SQL e NoSQL, etc.
 
@@ -25,8 +26,10 @@ cd projeto1
 Compile o código (se necessário) e execute-o.
 
 Contribuição
+
 Contribuições são bem-vindas! Se você tem sugestões de melhorias nos projetos existentes ou ideias para novos projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Licença
+
 Veja o arquivo LICENSE.md para mais detalhes.
 
